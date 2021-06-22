@@ -1,0 +1,16 @@
+C:\Users\Ryslan\Desktop\Saper\Saper\obj\Debug\netcoreapp3.1\Saper.csproj.AssemblyReference.cache
+C:\Users\Ryslan\Desktop\Saper\Saper\obj\Debug\netcoreapp3.1\Saper.Form1.resources
+C:\Users\Ryslan\Desktop\Saper\Saper\obj\Debug\netcoreapp3.1\Saper.csproj.GenerateResource.cache
+C:\Users\Ryslan\Desktop\Saper\Saper\obj\Debug\netcoreapp3.1\Saper.AssemblyInfoInputs.cache
+C:\Users\Ryslan\Desktop\Saper\Saper\obj\Debug\netcoreapp3.1\Saper.AssemblyInfo.cs
+C:\Users\Ryslan\Desktop\Saper\Saper\obj\Debug\netcoreapp3.1\Saper.csproj.CoreCompileInputs.cache
+C:\Users\Ryslan\Desktop\Saper\Saper\bin\Debug\netcoreapp3.1\Saper.exe
+C:\Users\Ryslan\Desktop\Saper\Saper\bin\Debug\netcoreapp3.1\Saper.deps.json
+C:\Users\Ryslan\Desktop\Saper\Saper\bin\Debug\netcoreapp3.1\Saper.runtimeconfig.json
+C:\Users\Ryslan\Desktop\Saper\Saper\bin\Debug\netcoreapp3.1\Saper.runtimeconfig.dev.json
+C:\Users\Ryslan\Desktop\Saper\Saper\bin\Debug\netcoreapp3.1\Saper.dll
+C:\Users\Ryslan\Desktop\Saper\Saper\bin\Debug\netcoreapp3.1\Saper.pdb
+C:\Users\Ryslan\Desktop\Saper\Saper\obj\Debug\netcoreapp3.1\Saper.dll
+C:\Users\Ryslan\Desktop\Saper\Saper\obj\Debug\netcoreapp3.1\Saper.pdb
+C:\Users\Ryslan\Desktop\Saper\Saper\obj\Debug\netcoreapp3.1\Saper.genruntimeconfig.cache
+C:\Users\Ryslan\Desktop\Saper\Saper\obj\Debug\netcoreapp3.1\Saper.Properties.Resources.resources
